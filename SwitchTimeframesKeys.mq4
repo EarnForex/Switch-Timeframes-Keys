@@ -4,7 +4,7 @@
 //|                                       https://www.earnforex.com/ |
 //+------------------------------------------------------------------+
 #property copyright "Copyright © 2025, www.EarnForex.com"
-#property link      "https://www.earnforex.com/metatrader-indicators/SwitchTimeframes/"
+#property link      "https://www.earnforex.com/metatrader-indicators/SwitchTimeframesKeys/"
 #property version   "1.00"
 #property strict
 
